@@ -1,16 +1,13 @@
-# 👋 Olá! Eu sou o Thiaguin0102
+# 👋 Olá! Eu sou o Thiago Feitosa
 
 💻 Apaixonado por tecnologia e sempre aprendendo algo novo!  
 🚀 Bem-vindo ao meu perfil do GitHub!
 
 ---
 
-### ⚙️ Estatísticas do GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiaguin0102&show_icons=true&count_private=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiaguin0102&layout=compact&theme=dark&hide_border=true)
 
----
-
-### 🔤 Linguagens mais usadas
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,13 +18,11 @@
 
 ---
 
-### 🔥 Streak de Contribuições
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thiaguin0102&theme=blueberry&hide_border=true)
-
----
-
-### 🏆 Troféus do GitHub
-![Trophies](https://github-profile-trophy.vercel.app/?username=Thiaguin0102&theme=darkhub&no-frame=true)
----
+<div> 
+  <a href="https://instagram.com/thiagofeitosa03" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:tfeitosa214@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiago-feitosa-53644435a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 ⭐ **Obrigado por visitar meu perfil!**
